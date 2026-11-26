@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="896" height="222" viewBox="0 0 896 222" fill="none">
+  <!-- Left Wide Repositories Bento Card -->
+  <rect x="0.5" y="0.5" width="596" height="221" rx="14" fill="#161616" stroke="#2a2a2a" stroke-width="1" />
+  <text x="26" y="38" fill="#ececec" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" letter-spacing="-0.2">Selected repositories</text>
+
+  <!-- Nested Repo Card 1: ares -->
+  <rect x="26.5" y="56.5" width="264" height="140" rx="10" fill="#1e1e1e" stroke="#2d2d2d" stroke-width="1" />
+  <g transform="translate(42, 74)" stroke="#888888" stroke-width="1.2" fill="none">
+    <path d="M2 2.5A1.5 1.5 0 0 1 3.5 1h7A1.5 1.5 0 0 1 12 2.5v10a.5.5 0 0 1-.5.5h-8A1.5 1.5 0 0 1 2 11.5v-9Z" />
+    <path d="M2 10.5h10" />
+  </g>
+  <text x="61" y="85" fill="#ececec" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="500">ares</text>
+  <rect x="97" y="71.5" width="42" height="18" rx="9" stroke="#484848" stroke-width="1" />
+  <text x="118" y="83.5" text-anchor="middle" fill="#a0a0a0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5">Public</text>
+
+  <text x="42" y="113" fill="#9a9a9a" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5">
+    <tspan x="42" dy="0">Active JavaScript repository in</tspan>
+    <tspan x="42" dy="18">ongoing development.</tspan>
+  </text>
+
+  <circle cx="46" cy="176" r="4" fill="#8b8680" />
+  <text x="56" y="180" fill="#909090" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5">JavaScript</text>
+
+  <!-- Nested Repo Card 2: recipie-finder -->
+  <rect x="306.5" y="56.5" width="264" height="140" rx="10" fill="#1e1e1e" stroke="#2d2d2d" stroke-width="1" />
+  <g transform="translate(322, 74)" stroke="#888888" stroke-width="1.2" fill="none">
+    <path d="M2 2.5A1.5 1.5 0 0 1 3.5 1h7A1.5 1.5 0 0 1 12 2.5v10a.5.5 0 0 1-.5.5h-8A1.5 1.5 0 0 1 2 11.5v-9Z" />
+    <path d="M2 10.5h10" />
+  </g>
+  <text x="341" y="85" fill="#ececec" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="500">recipie-finder</text>
+  <rect x="431" y="71.5" width="42" height="18" rx="9" stroke="#484848" stroke-width="1" />
+  <text x="452" y="83.5" text-anchor="middle" fill="#a0a0a0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5">Public</text>
+
+  <text x="322" y="113" fill="#9a9a9a" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5">
+    <tspan x="322" dy="0">React recipe search engine with</tspan>
+    <tspan x="322" dy="18">persistent favorites, Vite &amp; Tailwind.</tspan>
+  </text>
+
+  <circle cx="326" cy="176" r="4" fill="#8b8680" />
+  <text x="336" y="180" fill="#909090" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5">React · Vite · Tailwind</text>
+
+  <!-- Right Stack & Contact Bento Card -->
+  <rect x="612.5" y="0.5" width="283" height="221" rx="14" fill="#161616" stroke="#2a2a2a" stroke-width="1" />
+  <text x="636" y="38" fill="#ececec" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" letter-spacing="-0.2">Stack &amp; Contact</text>
+
+  <text x="636" y="69" fill="#7c7c7c" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5">LANGUAGES</text>
+  <text x="636" y="86" fill="#d4d4d4" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5">JS · Python · Java · HTML / CSS</text>
+
+  <text x="636" y="112" fill="#7c7c7c" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5">BUILD</text>
+  <text x="636" y="129" fill="#d4d4d4" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5">React · Vite · Tailwind · Git · Vercel</text>
+
+  <line x1="636" y1="150" x2="872" y2="150" stroke="#262626" stroke-width="1" />
+
+  <text x="636" y="174" fill="#e2e2e2" text-decoration="underline" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5">main-portfolio-olive-chi.vercel.app</text>
+  <text x="636" y="196" fill="#989898" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12">partish.palkritwar07@gmail.com</text>
+</svg>
